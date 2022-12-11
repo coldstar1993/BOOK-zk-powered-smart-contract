@@ -1,7 +1,4 @@
-# BOOK-zk-powered-smart-contract
-Writing a book about Smart Contracts powered by Zero Knowledge Proof.
-
-### Outline
+# Summary
 
 - [先从一个普通智能合约说起]()
 - [走进零知识证明]()
@@ -58,7 +55,7 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
   - **TODO**
 
 - [深入学习Mina的zkApp]()
-  - Snarkyjs YYDS!
+  - snarkyjs YYDS!
     - 丝滑-Typescript
     - 丝滑-无须Trusted Setup
     - 麻烦-初始化慢+动态import

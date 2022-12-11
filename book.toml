@@ -1,0 +1,6 @@
+[book]
+authors = ["https://github.com/coldstar1993"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Smart Contract Powered By Zero-Knowledge Proofs"
