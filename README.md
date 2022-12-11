@@ -1,5 +1,6 @@
 # BOOK-zk-powered-smart-contract
 Writing a book about Smart Contracts powered by Zero Knowledge Proof.
+基于这两年的积累，我正在写一系列文章介绍基于零知识证明的智能合约!
 
 ### Outline
 
