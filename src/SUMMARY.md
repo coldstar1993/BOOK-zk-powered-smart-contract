@@ -16,6 +16,8 @@
       - Noir
     - Mina
       - Snarkyjs+zkApp
+        - ZkProgram
+        - SmartContract
     - Aleo
       - Leo
 - [尝试改造普通合约]()
