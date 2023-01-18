@@ -71,6 +71,9 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
   - zkApp
     - 每次访问都得重新编译电路
       - 最好SPA
+  - 递归证明
+    - 聚合，压缩，并行化
+    - 借助ZkProgram
   - **TODO**
 
 - [深入学习StarkNet的Cairo]()
