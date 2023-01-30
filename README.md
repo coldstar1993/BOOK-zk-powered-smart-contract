@@ -53,7 +53,7 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
   - Trusted Setup!
   - 分析TornadoCash等Dapp
   - **TODO**
-  
+- [基于circom+snarkjs实现Rollup]()
 - [深入学习Noir电路]()
   - 重新实现TornadoCash
   - **TODO**
