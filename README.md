@@ -85,3 +85,6 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
   - Aleo的特点
   - Leo语法
   - **TODO**
+  
+- [递归零知识证明]
+  - 
