@@ -8,7 +8,8 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
 - [走进零知识证明]()
   - 基础认知
     - 基础知识
-    - Poseidon承诺
+      - Poseidon承诺
+      - EdDSA签名
     - 扩容+隐私
   - 目前大热应用
     - 以太坊
