@@ -90,4 +90,8 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
   - **TODO**
   
 - [递归零知识证明]
+  - 动态无限扩容
+
+
+- [常见零知识案例收集&分享]
   - 
