@@ -89,10 +89,10 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
   - Leo语法
   - **TODO**
   
-- [递归零知识证明]
+- [递归零知识证明]()
   - 动态无限扩容
 
-- [成本考虑]
+- [电路执行的成本考虑]()
   - 由于keccak256和ECDSA在电路中性能非常差，所以Aztec将signature的验证转移到链上合约中进行。即前者比后者成本更高。
   
 - [常见零知识案例收集&分享]
