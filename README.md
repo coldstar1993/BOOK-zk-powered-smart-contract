@@ -49,13 +49,17 @@ Writing a book about Smart Contracts powered by Zero Knowledge Proof.
     - 编译期就得确定一切
     - 电路展开
   - if-else不一样了
-    - 所有逻辑分支都执行，只是输出符合条件的分支结果
+    - 将运行时的分支逻辑拟合到一致：不符合条件则以零值进行
   - ifelse、while和for循环的坑点
+  - 常见思维转换
+    - 电路中判断某个元素在集合中，或不在集合中
+    - 电路中通常别重新计算，而是验证计算结果
+    - 将运行时的分支逻辑拟合到一致：不符合条件则以零值进行
   - 电路组件化以复用
   - 常见社区电路lib
-  - Trusted Setup!
+  - !!Trusted Setup!!
   - 分析TornadoCash等Dapp
-  - **TODO**
+  
 - [基于circom+snarkjs实现Rollup]()
 - [深入学习Noir电路]()
   - 重新实现TornadoCash
